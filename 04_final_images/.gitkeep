@@ -1,0 +1,28 @@
+# Final Product Images
+
+This folder contains all 9 final product images at 1600x1600 pixels.
+
+## Image Files (to be added)
+
+### Main Product Image
+- `01_main_product_image_1600x1600.png`
+
+### Selling Point Images (5)
+- `02_selling_point_01_1600x1600.png`
+- `03_selling_point_02_1600x1600.png`
+- `04_selling_point_03_1600x1600.png`
+- `05_selling_point_04_1600x1600.png`
+- `06_selling_point_05_1600x1600.png`
+
+### Lifestyle/Scene Images (2)
+- `07_lifestyle_scene_01_1600x1600.png`
+- `08_lifestyle_scene_02_1600x1600.png`
+
+## Upload Instructions
+
+1. Export each image as PNG or JPEG
+2. Verify dimensions: exactly 1600 x 1600 pixels
+3. Check file size: under 2MB per image
+4. Name files exactly as listed above
+5. Upload to this folder
+6. Run quality checks from `05_documentation/quality_checklist.md`
